@@ -20,13 +20,6 @@ I enjoy building things from scratch, understanding how systems work, and sharin
 
 I write about databases, C++, systems programming, and computer science.
 
-**Website:** [bhupesh.com.np](https://bhupesh.com.np)
-
-## Connect
-
-- [GitHub](https://github.com/itsbhupesh00)
-- [Website](https://bhupesh.com.np)
-
----
+**🌐** [bhupesh.com.np](https://bhupesh.com.np)
 
 > Build. Learn. Understand.
